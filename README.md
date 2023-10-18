@@ -1,6 +1,7 @@
 # WeatherApp
 
 Title: Simple Weather App
+<h2>LiveDemo : https://surajcodevoyager.github.io/WeatherApp/ </h2>
 
 Description:
 The Simple Weather App is a user-friendly web application that allows users to check the current weather conditions for any location in the world. This project was built using HTML, CSS, and JavaScript
